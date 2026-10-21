@@ -1,0 +1,28 @@
+# 数据与成果一律不入库，避免误传
+/data/
+/output/
+/成果/
+*.tif
+*.img
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.gdb/
+*.mdb
+*.xls
+*.xlsx
+*.zip
+*.rar
+
+# Python 常规
+__pycache__/
+*.py[cod]
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
